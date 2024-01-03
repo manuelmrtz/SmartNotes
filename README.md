@@ -1,0 +1,2 @@
+# SmartNotes
+Sample Djangp Project
